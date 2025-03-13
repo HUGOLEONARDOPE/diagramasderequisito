@@ -42,8 +42,8 @@
         <mxCell id="z3hP4W_itagx5eo5QeAl-4" value="TÉCNICO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z3hP4W_itagx5eo5QeAl-5" value="BANIR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="250" width="30" height="60" as="geometry" />
+        <mxCell id="z3hP4W_itagx5eo5QeAl-5" value="BANCO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z3hP4W_itagx5eo5QeAl-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;SISTEMA DE CAIXA ELETRÔNICO&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="314" y="40" width="236" height="40" as="geometry" />
